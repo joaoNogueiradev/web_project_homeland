@@ -1,0 +1,32 @@
+.header {
+  padding-top: 34px;
+  text-align: center;
+}
+
+.header__logo {
+  width: 60%;
+  margin-bottom: 50px;
+}
+
+.header__title {
+  font-family: Inter;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 44px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header__description {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  width: 90%;
+  margin: 16px auto 40px auto;
+}
+
+.header__image {
+  width: 100%;
+  margin-bottom: 64px;
+}

@@ -1,0 +1,35 @@
+.content {
+}
+.content__title {
+  font-weight: 900;
+  max-width: 18rem;
+  font-size: 32px;
+  line-height: 35px;
+  color: white;
+  margin: 0 auto 40px auto;
+}
+.content__quote {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 25px;
+  margin: 0 16px 0 16px;
+  max-width: 90%;
+  line-height: 30px;
+}
+.content__quote-cite {
+  font-weight: 400;
+  font-size: 24px;
+  max-width: 90%;
+  line-height: 34px;
+  display: flex;
+  justify-content: end;
+  margin: 10px auto 32px auto;
+}
+.content__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  max-width: 100%;
+  letter-spacing: 0%;
+  margin: 0 16px 64px 16px;
+}
