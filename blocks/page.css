@@ -1,7 +1,9 @@
 .page {
-  box-sizing: border-box;
-  max-width: 320px;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
   background-color: #2a2c2f;
   font-family: Inter, sans-serif, arial;
   color: white;
+  box-sizing: border-box;
 }

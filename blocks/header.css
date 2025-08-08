@@ -4,28 +4,47 @@
 }
 
 .header__logo {
-  width: 60%;
-  margin-bottom: 50px;
+  width: 40%;
+  max-width: 118px;
 }
 
 .header__title {
-  font-family: Inter;
   font-weight: 900;
   font-size: 40px;
-  line-height: 44px;
-  width: 80%;
-  margin: 0 auto;
+  line-height: 1.2;
+  width: calc(100% - 92px);
+  max-width: 228px;
+  margin: 50px auto 16px auto;
 }
 
 .header__description {
-  font-family: Inter;
   font-weight: 400;
   font-size: 16px;
-  line-height: 20px;
-  width: 90%;
+  line-height: 1.25;
+  width: calc(100% - 32px);
   margin: 16px auto 40px auto;
 }
 
 .header__image {
   width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (min-width: 544px) {
+  .header {
+    padding-top: 30px;
+    text-align: center;
+  }
+
+  .header__logo {
+    width: 100%;
+    max-width: 254px;
+  }
+  .header__title {
+    font-weight: 900;
+    font-size: 75px;
+    line-height: 79px;
+    max-width: 530px;
+    width: calc(100% - 48px);
+  }
 }

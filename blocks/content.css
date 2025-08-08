@@ -4,23 +4,21 @@
 .content__title {
   font-weight: 900;
   font-size: 32px;
-  line-height: 35px;
-  letter-spacing: 0%;
+  line-height: 1.1;
   width: 100%;
-  margin-top: 64px;
+  margin: 64px auto 0 auto;
 }
 .content__quote {
   font-weight: 400;
   font-size: 24px;
-  line-height: 30px;
-  margin-top: 40px;
+  line-height: 1.25;
   margin: 40px auto 0 auto;
   width: 100%;
 }
 .content__quote-cite {
   font-weight: 400;
   font-size: 24px;
-  line-height: 34px;
+  line-height: 1.42;
   text-align: right;
   display: block;
   margin-top: 10px;
@@ -30,6 +28,5 @@
   margin-top: 32px;
   font-weight: 400;
   font-size: 16px;
-  line-height: 163%;
-  letter-spacing: 0%;
+  line-height: 1.63;
 }
