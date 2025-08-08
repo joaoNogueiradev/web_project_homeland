@@ -30,3 +30,23 @@
   font-size: 16px;
   line-height: 1.63;
 }
+
+@media screen and (min-width: 544px) {
+  .content {
+    padding: 0 24px;
+  }
+  .content__title {
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 1.1;
+    width: 100%;
+    margin: 90px auto 0 auto;
+  }
+  .content__quote {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.25;
+    margin: 40px auto 0 auto;
+    width: 100%;
+  }
+}

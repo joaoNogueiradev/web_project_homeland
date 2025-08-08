@@ -47,4 +47,13 @@
     max-width: 530px;
     width: calc(100% - 48px);
   }
+
+  .header__description {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    width: calc(100% - 48px);
+  }
 }
