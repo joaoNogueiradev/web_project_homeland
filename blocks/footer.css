@@ -7,3 +7,23 @@
   margin-top: 64px;
   padding-bottom: 24px;
 }
+
+@media screen and (min-width: 544px) {
+  .footer {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1;
+    margin-top: 88px;
+    padding-bottom: 24px;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .footer {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+  }
+}
