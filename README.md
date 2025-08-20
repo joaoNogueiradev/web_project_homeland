@@ -12,7 +12,7 @@ Landing page responsiva de uma galeria que conecta pessoas e culturas por meio d
 
 ## 🌐 Acesse
 
-🔗 [Clique aqui para visualizar](https://seuusuario.github.io/seu-repositorio/)
+🔗 [Clique aqui para visualizar]([https://seuusuario.github.io/seu-repositorio/](https://joaonogueiradev.github.io/web_project_homeland/))
 
 ## 📜 Licença
 
